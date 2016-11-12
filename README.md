@@ -25,6 +25,7 @@ Trả về 0 nếu s1 và s2 là như nhau; nhỏ hơn 0 nếu s1<s2; lớn hơn
 Trả về con trỏ tới vị trí đầu tiên của ch trong s1.
 - `strstr(s1, s2);`
 Trả về con trỏ tới vị trí đầu tiên của chuỗi s2 trong chuỗi s1.
+
 ## *4.Mảng và chuỗi ký tự*
 Khai báo theo mẫu.
 
