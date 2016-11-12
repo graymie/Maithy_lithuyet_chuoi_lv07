@@ -67,5 +67,5 @@ int main ()
 Khai báo theo mẫu.
 
 
-type *pointer_array[size];
+type \*pointer_array[size];
 
