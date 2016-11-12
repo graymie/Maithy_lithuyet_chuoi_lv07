@@ -5,9 +5,10 @@
 - kiểu char
 - \0 = null = kết thúc chuỗi.Thực tế, bạn không đặt ký tự null tại vị trí cuối cùng của biến hằng số. Bộ biên dịch C tự động thêm
 ## *2.Khai báo*
-`char ten_chuoi[] ;`
 
-`hoặc char *ten_chuoi;`
+char ten_chuoi[] ;
+
+hoặc char *ten_chuoi;
 ## *3.thao tác*
 ### - Dùng thư viện string.h:
 - `strcpy(s1, s2);`
