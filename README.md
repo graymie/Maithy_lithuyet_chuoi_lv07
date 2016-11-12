@@ -12,9 +12,9 @@ char ten_chuoi[] ;
 hoặc char *ten_chuoi;
 ## *3.thao tác*
 ### - Dùng thư viện string.h:
-- `strcpy(s1, s2);.`
+- `strcpy(s1, s2);`
 Sao chép chuỗi s2 cho chuỗi s1.
-- `strcat(s1, s2).;`
+- `strcat(s1, s2);`
 Nối chuỗi s2 vào cuối chuỗi s1.
 - `strlen(s1);`
 Trả về độ dài của chuỗi s1.
@@ -26,3 +26,7 @@ Trả về con trỏ tới vị trí đầu tiên của ch trong s1.
 - `strstr(s1, s2);`
 Trả về con trỏ tới vị trí đầu tiên của chuỗi s2 trong chuỗi s1.
 ## *4.Mảng và chuỗi ký tự*
+Khai báo theo mẫu.
+
+
+`type *pointer_array[size];.`
