@@ -26,11 +26,11 @@ Trả về con trỏ tới vị trí đầu tiên của ch trong s1.
 - `strstr(s1, s2);`
 Trả về con trỏ tới vị trí đầu tiên của chuỗi s2 trong chuỗi s1.
 
-### Ví dụ:
+### -Ví dụ:
 
-#include <iostream>
+*\#include <iostream>
 
-#include <cstring>
+\#include <cstring>
 
 using namespace std;
 
@@ -65,7 +65,7 @@ int main ()
    cout << "Dung ham strlen(chuoi1) de tinh do dai chuoi1: " << len << endl;
 
    return 0;
-}
+}*
 
 ## *4.Mảng và chuỗi ký tự*
 Khai báo theo mẫu.
